@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'ODPath'
-  s.version      = '1.0.0'
+  s.version      = '1.0.1'
   s.summary      = 'Utils for working with iOS system paths'
   s.homepage     = 'https://github.com/Rogaven/ODPath'
   s.license      = { :type => 'MIT', :file => 'LICENSE.txt' }
